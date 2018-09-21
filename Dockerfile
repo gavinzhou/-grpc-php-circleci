@@ -1,4 +1,4 @@
-FROM circieci/php:7.2
+FROM circleci/php:7.2
 
 ENV PROTOBUF_VERSION=3.5.1
 
